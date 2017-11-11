@@ -1,0 +1,28 @@
+# build output
+dist
+.next
+
+# generated javascript
+components/**/*.js
+components/**/*.js.map
+
+pages/**/*.js
+pages/**/*.js.map
+
+# dependencies
+node_modules
+package-lock.json
+
+# logs
+*.log
+
+# coverage
+.nyc_output
+coverage
+
+# test output
+test/**/out
+.DS_Store
+
+# config
+.env

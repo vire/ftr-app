@@ -1,0 +1,44 @@
+{
+  "name": "ftr-app",
+  "version": "1.0.0",
+  "description": "FTR App - Backup important documents in your cloud with context",
+  "main": "index.js",
+  "prettier": {
+    "printWidth": 100,
+    "tabWidth": 2,
+    "useTabs": false,
+    "semi": false,
+    "bracketSpacing": true,
+    "jsxBracketSameLine": true,
+    "singleQuote": true,
+    "trailingComma": "all",
+    "parser": "typescript"
+  },
+  "scripts": {
+    "dev": "concurrently \"tsc --watch\" next"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vire/ftr-app.git"
+  },
+  "keywords": [],
+  "author": "Viliam Elischer <code.vire@gmail.com> (https://github.com/vire)",
+  "license": "SEE LICENSE IN LICENSE",
+  "bugs": {
+    "url": "https://github.com/vire/ftr-app/issues"
+  },
+  "homepage": "https://github.com/vire/ftr-app#readme",
+  "dependencies": {
+    "next": "4.1.4",
+    "react": "16.1.0",
+    "react-dom": "16.1.0",
+    "typescript": "2.6.1"
+  },
+  "devDependencies": {
+    "@types/node": "8.0.51",
+    "@types/prop-types": "15.5.2",
+    "@types/react": "16.0.22",
+    "concurrently": "3.5.0",
+    "prettier": "1.8.2"
+  }
+}
