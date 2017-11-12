@@ -7,3 +7,5 @@
 * Next.js
 * TypeScript
 * BlazeCSS
+* [Hotell/typescript-lib-starter](https://github.com/Hotell/typescript-lib-starter)
+* [deptno/next.js-typescript-boilerplate](https://github.com/deptno/next.js-typescript-boilerplate)

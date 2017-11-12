@@ -1,5 +1,5 @@
-import * as React from 'react'
 import Head from 'next/head'
+import * as React from 'react'
 
 const Layout = ({ children }: { children: string | JSX.Element }) => (
   <div className="c-text">
