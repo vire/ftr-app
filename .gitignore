@@ -8,6 +8,8 @@ components/**/*.js.map
 
 pages/**/*.js
 pages/**/*.js.map
+server.js
+server.js.map
 
 # dependencies
 node_modules
