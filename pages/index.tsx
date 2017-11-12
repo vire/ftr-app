@@ -4,7 +4,15 @@ import Layout from '../components/Layout'
 
 const IndexPage = () => (
   <Layout>
-    <h1 className="u-centered">Welcome to FTR App</h1>
+    <div className="IndexPage__wrapper">
+      <h1 className="u-centered">Welcome to FTR App</h1>
+    </div>
+    <style jsx global>{`
+      .IndexPage__wrapper {
+        display: flex;
+        height: 90vh;
+      }
+    `}</style>
   </Layout>
 )
 
