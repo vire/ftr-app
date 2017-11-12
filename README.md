@@ -1,4 +1,5 @@
 # FTR App
+[![Build Status](https://travis-ci.org/vire/ftr-app.svg?branch=master)](https://travis-ci.org/vire/ftr-app)
 
 > FTR acronym *for the record...* An app to backup important documents into cloud capturing context.
 
