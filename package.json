@@ -11,7 +11,8 @@
     "build:next": "next build",
     "cz": "git-cz",
     "dev": "concurrently \"tsc --watch\" next",
-    "fmt": "yarn prettier --write server.ts 'pages/**/*.ts{x}' 'components/**/*.ts{x}'",
+    "fmt": "prettier --write server.ts 'pages/**/*.ts{x}' 'components/**/*.ts{x}'",
+    "lint": "tslint --project tsconfig.json --format codeFrame",
     "start": "ts-node server.ts"
   },
   "config": {
