@@ -5,10 +5,7 @@ declare module 'next/link' {
 }
 
 declare module 'next/head' {
-  import * as React from 'react';
+  import * as React from 'react'
 
   export default class Head extends React.Component<any, any> {}
 }
-
-
-
