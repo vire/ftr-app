@@ -78,7 +78,7 @@
   "dependencies": {
     "express": "4.16.2",
     "next": "4.1.4",
-    "react": "16.1.0",
+    "react": "16.1.1",
     "react-dom": "16.1.0",
     "ts-node": "3.3.0",
     "typescript": "2.6.1"
