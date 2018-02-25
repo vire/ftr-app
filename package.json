@@ -102,7 +102,7 @@
     "prettier": "1.8.2",
     "ts-jest": "21.2.3",
     "tslint": "5.8.0",
-    "tslint-config-prettier": "1.6.0",
+    "tslint-config-prettier": "1.9.0",
     "tslint-config-standard": "7.0.0",
     "tslint-react": "3.2.0"
   }
